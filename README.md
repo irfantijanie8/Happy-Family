@@ -1,10 +1,10 @@
 # Happy-Family
-**PDFtoText** is a web-based application to convert a file in PDF to TXT.
+**Happy Family** is a traditional British card game that is widely play in Malaysia. I turn my childhood card game into a computer application. This game can be play by atleast two players.
 
 ## Project Description
-This project is developed in HTML and CSS as the frontend and PHP and Java as the backend. The user can upload a PDF file from their local machine and download the converted TXT file.
+This project is developed entirely in C++. The project are focusing on Object-Oriented Programming design. 
 
-![Screenshot (518)](https://user-images.githubusercontent.com/71698316/208812146-dc3ed816-c4b7-4f98-81fb-25ba072e1037.png)
+![aa0e19_366c46654d724d15bfabfd1e9d811c1c_mv2(1)](https://user-images.githubusercontent.com/71698316/210731279-9ca100ce-2c81-4f01-a91c-79617325edfa.gif)
 
 
 ## How To Use the Project
