@@ -6,6 +6,8 @@ This project is developed entirely in C++. The project are focusing on Object-Or
 
 ![aa0e19_366c46654d724d15bfabfd1e9d811c1c_mv2(1)](https://user-images.githubusercontent.com/71698316/210731279-9ca100ce-2c81-4f01-a91c-79617325edfa.gif)
 
+## How to run the game
+You can download HappyFamily.exe and run it.
 
 ## The Rules of The Game
 1) Every player will be assigned 8 cards each at the start of the game
